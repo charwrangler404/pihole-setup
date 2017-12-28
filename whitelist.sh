@@ -41,3 +41,4 @@ pihole -w mirror1.malwaredomains.com mirror.cedia.org.ec nolp.dhl.de oauth.reddi
 pihole -w pi.hole pixel.wp.com play.google.com playstation.net plex.tv pop.gmx.de ppa.launchpad.net ransomwaretracker.abuse.ch
 pihole -w raw.githubusercontent.com reddestdream.github.io redditmedia.com redditstatic.com s3.amazonaws.com ssl.google-analytics.com
 pihole -w sysctl.org twimg.com v.firebog.net www.malwaredomainlist.com www.metal-tracker.com yammer.com ytimg.com zeustracker.abuse.ch
+pihole -w www.google-analytics.com udm.scorecardresearch.com b.scorecardresearch.com
