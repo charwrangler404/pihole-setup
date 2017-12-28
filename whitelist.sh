@@ -34,3 +34,10 @@ pihole -w imagesak.secureserver.net
 pihole -w dl.google.com
 pihole -w appleid.apple.com
 pihole -w app-analytics.snapchat.com sc-analytics.appspot.com cf-st.sc-cdn.net
+
+pihole -w adaway.org api.twitter.com bitbucket.org changelogs.ubuntu.com de.ign.com dl.google.com dmp.adform.net dropbox.com feedly.com
+pihole -w gearbest.com github.com githubusercontent.com googleapis.com google.com hosts-file.net inbox.google.com metrics.plex.tv
+pihole -w mirror1.malwaredomains.com mirror.cedia.org.ec nolp.dhl.de oauth.reddit.com office.com onelogin.com orrs.de paypal.com paypal.de
+pihole -w pi.hole pixel.wp.com play.google.com playstation.net plex.tv pop.gmx.de ppa.launchpad.net ransomwaretracker.abuse.ch
+pihole -w raw.githubusercontent.com reddestdream.github.io redditmedia.com redditstatic.com s3.amazonaws.com ssl.google-analytics.com
+pihole -w sysctl.org twimg.com v.firebog.net www.malwaredomainlist.com www.metal-tracker.com yammer.com ytimg.com zeustracker.abuse.ch
